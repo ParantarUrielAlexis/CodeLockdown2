@@ -4,7 +4,8 @@ Your objective is to survive 8 rounds of code upgrades in order to outwit the th
 
 
 
-FSM: [FSM.pdf](https://github.com/user-attachments/files/17486269/FSM.pdf)
+FSM: [Finite State Machine](https://github.com/user-attachments/files/17486391/FSM.2.pdf)
+
 
 
 Demonstration: https://drive.google.com/file/d/1FCabwJETwDTfBpS93Xkp3FZTIeIh2MAB/view?usp=sharing
